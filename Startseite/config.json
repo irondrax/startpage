@@ -1,0 +1,18 @@
+{
+    "bool": {
+        "borders":              true,
+        "simplesearch":         false,
+        "alwaysopen":           false
+    },
+
+    "style": {
+
+    },
+
+    "ext": {
+    },
+
+        "clock": {
+                "hour_format":                        "24"
+        }
+}
